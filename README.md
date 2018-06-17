@@ -5,13 +5,13 @@ Datasets are in shakespeare folder
 * python3
 ### Installation
 ```sh
- git clone repo
+ git clone https://github.com/shan1322/Bard-of-Avon
  cd Bard of Avon
  pip3 install -r requirements.txt  
 ```
 ### Running
 ```sh
-Run WS.ipynb
+ run WS.ipynb
 ```
 ## Callback
 * Callback function is used in the notebook it helps in visualizing interim states of traning
