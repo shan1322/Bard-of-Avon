@@ -1,5 +1,8 @@
 # Bard Of Avon
 A project that generates william shakespeare like text
+
+
+
 Datasets are in shakespeare folder
 ## Prerequisites
 * python3
